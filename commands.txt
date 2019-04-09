@@ -1,0 +1,10 @@
+cd for directories
+mkdir for new folders 
+touch for new files
+git init for initialization
+git status for obviously status
+git add for selection
+git commit 
+-m for direct message adding 
+git diff file_name
+git checkout for branch selection
